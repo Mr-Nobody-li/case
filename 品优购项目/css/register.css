@@ -1,0 +1,178 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    height: 84px;
+    border-bottom: 2px solid #b1191a;
+    padding-top: 21px;
+}
+
+header .ad {
+    display: inline-block;
+    width: 100px;
+    height: 35px;
+    background-color: pink;
+    color: white;
+}
+
+header .ad i {
+    display: inline-block;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    color: black;
+    border: 1px solid #666666;
+}
+
+.registerarea {
+    height: 522px;
+    margin-top: 20px;
+    border: 1px solid #dddddd;
+}
+
+.registerarea h3 {
+    height: 40px;
+    padding: 0 11px;
+    line-height: 40px;
+    background: #ececec;
+    border-bottom: 1px solid #dddddd;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.registerarea h3 span {
+    float: right;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.registerarea h3 span a {
+    color: red;
+}
+
+.reg-form {
+    width: 600px;
+    margin: 55px auto 0;
+}
+
+.reg-form li {
+    margin-bottom: 20px;
+}
+
+.reg-form label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+    font-size: 14px;
+}
+
+.reg-form input {
+    width: 242px;
+    height: 36px;
+    padding-left: 5px;
+    border: 1px solid #999999;
+    color: #999999;
+}
+
+.reg-form p {
+    display: inline;
+}
+
+.error-icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    margin-top: -2px;
+    background: url(../images/error-icon.png);
+}
+
+.error {
+    color: #df3033;
+}
+
+.correct {
+    color: green;
+}
+
+.correct-icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    margin-top: -2px;
+    background: url(../images/correct-icon.png);
+    background-size: 100%;
+}
+
+.safe {
+    margin-top: -10px;
+    padding-left: 171px;
+    color: gray;
+}
+
+.safe em {
+    padding: 0 10px;
+    margin-right: 2px;
+}
+
+.ruo {
+    background: red;
+}
+
+.zhong {
+    background: orange;
+}
+
+.qiang {
+    background: #40b83f;
+}
+
+.safe em {
+    color: white;
+}
+
+.agree {
+    margin-top: 27px;
+}
+
+.agree input {
+    width: 15px;
+    height: 15px;
+    margin-left: 90px;
+    vertical-align: middle;
+}
+
+.agree a {
+    color: #1ba1e6;
+}
+
+.wanchengzhuce {
+    margin-top: 30px;
+}
+
+.wanchengzhuce input {
+    width: 200px;
+    height: 35px;
+    margin-left: 102px;
+    background: #c81623;
+    border: none;
+    font-size: 14px;
+    color: white;
+}
+
+.mod_copyright {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.mod_copyright .copyright {
+    line-height: 20px;
+    margin-top: 15px;
+}
+
+.mod_copyright .links a {
+    margin: 0 10px;
+}

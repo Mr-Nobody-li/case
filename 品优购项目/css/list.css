@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon.eot?tomleg');
+    src: url('../fonts/icomoon.eot?tomleg#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?tomleg') format('truetype'), url('../fonts/icomoon.woff?tomleg') format('woff'), url('../fonts/icomoon.svg?tomleg#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+.sk {
+    position: absolute;
+    left: 185px;
+    top: 16px;
+}
+
+.sk-list {
+    float: left;
+}
+
+.sk-list ul li {
+    float: left;
+}
+
+.sk-list ul li a {
+    padding: 0 30px;
+    line-height: 47px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.sk-col {
+    float: right;
+    margin-right: 62px;
+}
+
+.sk-col ul li {
+    float: left;
+}
+
+.sk-col ul li a {
+    padding: 0 20px;
+    line-height: 49px;
+    font-size: 14px;
+}
+
+.sk-more::after {
+    font-family: 'icomoon';
+    content: '\e91e';
+}
